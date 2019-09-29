@@ -2,11 +2,16 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
-  color: #29B7AC;
+  background-image: url(
+}
+
+h1 {
+  color: #A06FFF;
 }
 
 p {
   font-style: italic;
   font-size: 8px;
+  color: #29B7AC;
 }
 

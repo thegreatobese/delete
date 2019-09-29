@@ -10,7 +10,7 @@ body {
 
 h1 {
   color: #A06FFF;
-  border: 5px solid red;
+  border: 5px outset red;
 }
 
 p {

@@ -29,3 +29,29 @@ p {
   float:right;
   width: 49%;
 }
+
+.navbar {
+  overflow:hidden;
+  background-color: #5A1E39;
+}
+
+.navbar a {
+  float:left;
+  display: block;
+  color: #EEA2C4;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #422834;
+  color: #FFFFFF;
+}
+
+.navbar a.active {
+  background-color: #FFFFFF;
+  color: Black;
+}
+  
